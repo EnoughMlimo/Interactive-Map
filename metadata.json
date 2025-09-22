@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Africa Officials Map",
+  "description": "An interactive map application to display contact information for key officials in various African countries. Click on a country to view detailed information.",
+  "requestFramePermissions": []
+}
